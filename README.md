@@ -5,5 +5,7 @@ Reloading is dangerous, this is not intended to teach you to reload.
 
 Always use best practices for reloading and follow a manual.
 
+Watch it work!: https://youtu.be/wGvJKx5U8n8
+
 ![Auto Trickler](IMG_1930.jpg)
 
