@@ -14,6 +14,8 @@
 
 [Button Switch](https://www.amazon.com/OCR-180PcsTactile-Momentary-Switches-Assortment/dp/B01MRP025V/ref=sr_1_11?dchild=1&keywords=button+switch&qid=1601606264&sr=8-11)
 
+[Servo](https://www.amazon.com/Parallax-Continuous-Rotation-Servo-PARALLAX/dp/B01M6D0KTM/ref=sr_1_1?dchild=1&keywords=parallax+servo&qid=1601729620&sr=8-1)
+
 [Powder Trickler](https://www.amazon.com/Frankford-Arsenal-Trickler-Convenient-Reloading/dp/B00AVUJ26C/ref=sr_1_3?dchild=1&keywords=powder+trickler&qid=1601606506&sr=8-3)
 
 [Dillon Beam Scale](https://www.dillonprecision.com/eliminator-balance-beam-scale_8_7_25215.html)
@@ -23,10 +25,14 @@
 [3d Printed Parts](https://www.thingiverse.com/thing:4612523)
 
 
-## Other Parts:
+## Other things you'll need:
 
 Wire
 
 Hot glue
+
+Solder, flux, solder iron
+
+
 
 
