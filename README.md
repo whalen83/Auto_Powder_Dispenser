@@ -16,11 +16,11 @@ An Arduino powered auto powder dispenser for beam scales capable of repeatable +
 
 A beam scale will measure exactly the same every time it is used and typically can hold tolerances over the range of the scale. It doesn't use batteries, and isn't as affected by air currents. As long as you use the same scale each time and set the zero the same it should produce the same charges. 
 
+![Auto Trickler](IMG_1930.jpg)
 
 ## Watch it work!
 https://youtu.be/wGvJKx5U8n8
 
 [![SC2 Video](Video_Screenshot.png)](https://youtu.be/wGvJKx5U8n8)
 
-![Auto Trickler](IMG_1930.jpg)
 
