@@ -1,4 +1,4 @@
-# Auto_Powder_Dispenser
+# Auto Powder Dispenser
 
 Reloading is dangerous, this is not intended to teach you to reload.
 
