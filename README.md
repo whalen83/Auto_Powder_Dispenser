@@ -19,8 +19,8 @@ A beam scale will measure exactly the same every time it is used and typically c
 ![Auto Trickler](IMG_1930.jpg)
 
 ## Watch it work!
-https://youtu.be/wGvJKx5U8n8
+https://youtu.be/rCnM_-ORX8Y
 
-[![SC2 Video](Video_Screenshot.png)](https://youtu.be/wGvJKx5U8n8)
+[![SC2 Video](Video_Screenshot.png)](https://youtu.be/rCnM_-ORX8Y)
 
 
