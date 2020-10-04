@@ -2,7 +2,7 @@
 
 Reloading is dangerous, this is not intended to teach you to reload.
 
-Always use best practices for reloading and follow a manual.
+Always use best practices for reloading and follow a manual, use at your own risk.
 
 ## What is it?
 
