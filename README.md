@@ -23,4 +23,6 @@ https://youtu.be/rCnM_-ORX8Y
 
 [![SC2 Video](Screenshot.png)](https://youtu.be/rCnM_-ORX8Y)
 
+![Wiring Diagram](Wiring_Diagram.png)
+
 
